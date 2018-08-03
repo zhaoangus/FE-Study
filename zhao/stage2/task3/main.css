@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 460px;
+    margin: 20px;
+    background-color: #eee;
+    border: 1px solid #999;
+}
+
+.name {
+    width: 200px;
+    height: 120px;
+    margin: 20px;
+    padding: 20px;
+    float: left;
+    background-color: #fff;
+    border: 1px solid #999;
+}
+
+.person {
+    width: 120px;
+    height: 420px;
+    float: right;
+    margin: 20px;
+    background-color: #fff;
+    border: 1px solid #999;
+}
+
+.info {
+    margin-left: 280px;
+    margin-right: 180px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 400px;
+    background-color:#fff;
+    border: 1px solid #999;
+}
+
+.name .logo {
+    width: 80px;
+    height: 80px;
+    background-color: #eee;
+    border: 1px solid #999;
+}
+
+.logo1 {
+    width: 78px;
+    height: 78px;
+    margin: 20px;
+    background-color: #eee;
+    border: 1px solid #999;
+}
